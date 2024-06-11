@@ -1,2 +1,2 @@
-# CDSE-Plugin
+# cdse-plugin
  
