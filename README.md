@@ -18,13 +18,18 @@ For a detailed description of these Test Scenarios, please visit the following l
 
 ## How It Works
 
-To discover how this plugin operates, please click on **[Start the Plugin](https://github.com/Virginia555/cdse-simpleplugin/wiki)**. This link will guide you to a detailed wiki page explaining the step-by-step process of our testing tool.
+To discover how this plugin operates, please click on **[Start the Plugin](https://github.com/Virginia555/cdseesa-Plugin/wiki)**. This link will guide you to a detailed wiki page explaining the step-by-step process of our testing tool.
 
 ## Results Visualization
 
 The results obtained from running the plugin will be automatically visualized through a Google Sheet. Specifically, for simplicity, results will be specific to a particular Test Case. You can view the Google Sheet directly by clicking [here](https://docs.google.com/spreadsheets/d/1kPkhk67xB-buh6V4EsR9-M2-cub_SreJ56ivTYjCRgk/edit#gid=0). Alternatively, you can view them tabulated within the web-based interface by clicking a button located on the main page of the application.
 ![image](https://github.com/Virginia555/cdab-simpleplugin/assets/127101224/7102c132-39db-410d-9575-638e33274c00) 
-Additionaly users are presented with a comprehensive graph that visualizes key performance metrics. Furthermore, an interactive map displays the global distribution of users who have run the tests, highlighting the geographical spread and localized performance metrics. 
+Additionaly users are presented with a comprehensive graph that visualizes key performance metrics.
+![msg81522461-49864](https://github.com/Virginia555/cdseesa-Plugin/assets/127101224/0c08af14-6154-4ecf-9727-c979c548a532)
+
+Furthermore, an interactive map displays the global distribution of users who have run the tests, highlighting the geographical spread and localized performance metrics. 
+![msg81522461-49865](https://github.com/Virginia555/cdseesa-Plugin/assets/127101224/30dd9205-5b05-4b4f-8fc4-52caca8b64b0)
+
 
 
 ## Why a Web-Based Interface?
